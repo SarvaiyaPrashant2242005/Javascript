@@ -21,7 +21,12 @@ console.log(fruits1);
 for(let fruit of fruits){
     console.log(fruit.toUpperCase());
 }
+// while loop
 
+while(fruits.length < 0){
+    console.log(fruits);
+    
+}
 
 // For in loop
 
