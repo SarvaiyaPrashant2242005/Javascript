@@ -13,7 +13,7 @@ const band = {
 // console.log(bandSong);
 
 
-const {bandName, famousSong , ...rest} = band;
-console.log(bandName);
-console.log(famousSong);
-console.log(rest);
+const {bandName, famousSong , ...rest} = band
+console.log(bandName)
+console.log(famousSong)
+console.log(rest)
