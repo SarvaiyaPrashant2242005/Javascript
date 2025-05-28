@@ -24,14 +24,14 @@ const obj2 = {
     key7 : "value7",
 }
 
-const newobj = {...obj1, ...obj2}
+const newobj = {...obj1, ...obj2};
 console.log(newobj);
 console.log(obj1);
 
 
-const obj3 = {...obj1, ...obj2, key89 : "value89"}
+const obj3 = {...obj1, ...obj2, key89 : "value89"};
 console.log(obj3);
 
 
-const alphabets = {..."abcdefghijklmnopqrstuvwxyz"}
+const alphabets = {..."abcdefghijklmnopqrstuvwxyz"};
 console.log(alphabets);
