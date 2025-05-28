@@ -19,5 +19,5 @@ const users = [
 
 
 for(let user of users){
-    console.log(user);
+    console.log(user)
 }
