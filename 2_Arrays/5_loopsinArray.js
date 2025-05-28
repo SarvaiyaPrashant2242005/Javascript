@@ -21,3 +21,10 @@ console.log(fruits1);
 for(let fruit of fruits){
     console.log(fruit.toUpperCase());
 }
+
+
+// For in loop
+
+for (let f in fruits){
+    console.log([f]);
+}
