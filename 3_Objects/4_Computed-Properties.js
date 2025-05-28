@@ -13,8 +13,8 @@ const obj = {
 
 const obj2 = {}
 
-obj2[key1] = value1
-obj2[key2] = value2
+obj2[key1] = value1;
+obj2[key2] = value2;
 
 console.log(obj);
 
